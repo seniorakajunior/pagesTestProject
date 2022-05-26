@@ -55,14 +55,17 @@ Currently the project can be viewed on Heroku:
 
 ![Animated GIF 03...](/03.gif?raw=true)
 
-&nbsp;
-&nbsp;
+
+
 === Contacts ===
-&nbsp;
+
+
 e-mail:   buturumus@gmail.com
-&nbsp;
+
+
 telegram: @buturumus
-&nbsp;
+
+
 Alexander
-&nbsp;
+
 
